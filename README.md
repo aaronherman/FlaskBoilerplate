@@ -1,12 +1,4 @@
-# README
-
-Mobile responsive caf menu for Luther College
-
-- [ ] Parse CSV file to build up caf menu
-- [ ] Build up database?
-- [ ] Style caf menu with relevant information.
-- [ ] be able to click on certain items to see more information
-
+# Boilerplate with Flask and Bootstrap
 
 ## Education
 * [Flask](https://www.youtube.com/watch?v=zRwy8gtgJ1A)
